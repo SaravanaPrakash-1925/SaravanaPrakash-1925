@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Saravana Prakash
 #### you can also google me as ImATechnophile
-Just a learner who loves to write code 👨‍💻
 
 Skills: Polyglot developer
 
